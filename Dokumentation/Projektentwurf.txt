@@ -1,0 +1,21 @@
+===========================================
+=== Erster Entwurf, v_0.0.1, 2016-10-04 ===
+===========================================
+
+#A012 - Lernsoftware (Instrument erlernen)
+
+Die Lernsoftware sollte hauptsächlich einen allgemeinen Part haben, der dem Nutzer wichtige Dinge zum Lernen von Instrumenten generell nahe bringt. Hierbei soll es vor allem darum gehen, den Nutzer anfangs mit jeglichem Wissen rund um das Lesen und Verstehen von Noten vertraut zu machen.
+Am besten wäre es, die Software so zu entwerfen, dass diese beim Lernen Sound-Beispiele geben kann, damit sich der Nutzer die verschiedenen Töne, Oktaven etc. so schon ein mal anhören kann. In dem Instrument spezifischen Part soll es dann Sound-Beispiele geben, die je nach vorher ausgewähltem Instrument, anders klingen.
+
+Das heißt: im Grunde genommen sollte man dem Programm anfangs etwas über Noten und alles was damit zu tun hat entnehmen können und sich dann für ein Instrument, welches man gerade am lernen ist bzw. lernen möchte, entscheiden.
+
+Angenommen ein Nutzer entscheidet sich für "Gitarre".
+Das Programm gibt mir dann verschiedene Funktionen vor, speziell für meine Gitarre. Das Lernen soll hier anhand von Beispielen vereinfacht werden.
+Der Nutzer wird mit einem einfachen Beispiel-Song konfrontiert. Als erstes soll das Programm jenem noch ein mal alle Griffe, die man natürlich auch seperat erlernen kann, zeigen, die in dem Beispiel vorkommen. Es stellt einen also praktisch erst ein mal auf den Song ein. Der Nutzer kann dann selber auswählen ob er während des übens den Song anhören möchte oder nicht.
+
+Ebenfalls soll das Programm einen Kalender enthalten. Diesen soll der Nutzer selbst "beschreiben" können. Hier kann er sich Notizen machen was und wann er geübt hat. Falls er dies nicht tut, wird das Programm nach ca. 15 Minuten üben selbst einen Eintrag erstellen. Hierfür wäre eine Log-In/Account Funktion hilfreich.
+
+#####
+Ein tolles Extra aber schwer zu verwirklichen: ein super Feature wäre, wenn das Programm Noten, die der Nutzer spielt, erkennen und verarbeiten könnte. Hierbei spielt der Nutzer (am obigen Beispiel angelehnt) auf seiner Gitarre und das Programm soll Fehler erkennen und sogar beim Stimmen helfen. Dazu könnte man ebenfalls eine Log-In Funktion einbauen, die jedem Nutzer seine Entwicklung zeigt. Jedes Mal wenn der Nutzer ein Sample spielt, wird am Ende die Fehlerzahl und -ort gespeichert und ist wieder einsehbar.
+Ein weiteres tolles Extra aber schwer zu verwirklichen: dieses Extra würde dem Nutzer erlauben, einen Song, den er lernen möchte, selber ins Programm hochzuladen. Danach zeigt das Programm die Noten an, die gespielt werden müssen. So wäre man nicht nur an die festgelegten Beispiele gebunden.
+#####
