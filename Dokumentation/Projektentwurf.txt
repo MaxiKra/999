@@ -19,3 +19,27 @@ Ebenfalls soll das Programm einen Kalender enthalten. Diesen soll der Nutzer sel
 Ein tolles Extra aber schwer zu verwirklichen: ein super Feature wäre, wenn das Programm Noten, die der Nutzer spielt, erkennen und verarbeiten könnte. Hierbei spielt der Nutzer (am obigen Beispiel angelehnt) auf seiner Gitarre und das Programm soll Fehler erkennen und sogar beim Stimmen helfen. Dazu könnte man ebenfalls eine Log-In Funktion einbauen, die jedem Nutzer seine Entwicklung zeigt. Jedes Mal wenn der Nutzer ein Sample spielt, wird am Ende die Fehlerzahl und -ort gespeichert und ist wieder einsehbar.
 Ein weiteres tolles Extra aber schwer zu verwirklichen: dieses Extra würde dem Nutzer erlauben, einen Song, den er lernen möchte, selber ins Programm hochzuladen. Danach zeigt das Programm die Noten an, die gespielt werden müssen. So wäre man nicht nur an die festgelegten Beispiele gebunden.
 #####
+
+===================================
+=== Feedback Alpers, 2016-10-14 ===
+===================================
+
+=== 1.) Formales
+
+Eine zentrale Anforderung des Projektentwurfs ist, dass Sie in Form von Stichpunkten Ihren Ansatz zur Umsetzung der Projektidee schildern sollen. Stattdessen haben Sie eine ausführliche Beschreibung geliefert, die als Basis zum Entwurf einer Struktur leider nicht geeignet ist.
+
+Wichtig: Das hat nichts mit dem Inhalt zu tun.
+
+Überarbeiten Sie den Entwurf deshalb bitte so, dass er aus knappen Stichpunkten besteht.
+
+Aber nicht vergessen: Das Ausarbeiten der Struktur können Sie beginnen, sobald Sie auch nur einen Stichpunkt notiert haben.
+
+=== 2.) Inhaltliches
+
+Leider sind Sie auch inhaltlich noch nicht nahe genug an einer Ausarbeitung, sondern eher bei der Dokumentation eines Brainstormings. Bsp.:
+
+"...Die Lernsoftware sollte hauptsächlich einen allgemeinen Part haben, der dem Nutzer wichtige Dinge zum Lernen von Instrumenten generell nahe bringt. ..."
+
+Im Entwurf müssen klar erkennbare Punkte vorhanden sein, die diesen "allgemeinen Part" konkretisieren. Dabei kommt es nicht auf Vollständigkeit an, sondern darauf, dass Sie bzw. die Mitglieder Ihres Teams im Stande sind, konkrete Strukturen daraus abzuleiten. Wenn Sie dagegen zu konkret werden, dann sind Sie bereits bei der Struktur.
+
+Aufgrund des nicht-Stichpunkt-Charakters Ihres Entwurfs zurzeit leider keine Wertung.
