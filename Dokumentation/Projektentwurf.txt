@@ -4,20 +4,20 @@
 
 #A012 - Lernsoftware (Instrument erlernen)
 
-Die Lernsoftware sollte hauptsächlich einen allgemeinen Part haben, der dem Nutzer wichtige Dinge zum Lernen von Instrumenten generell nahe bringt. Hierbei soll es vor allem darum gehen, den Nutzer anfangs mit jeglichem Wissen rund um das Lesen und Verstehen von Noten vertraut zu machen.
-Am besten wäre es, die Software so zu entwerfen, dass diese beim Lernen Sound-Beispiele geben kann, damit sich der Nutzer die verschiedenen Töne, Oktaven etc. so schon ein mal anhören kann. In dem Instrument spezifischen Part soll es dann Sound-Beispiele geben, die je nach vorher ausgewähltem Instrument, anders klingen.
+Die Lernsoftware sollte hauptsÃ¤chlich einen allgemeinen Part haben, der dem Nutzer wichtige Dinge zum Lernen von Instrumenten generell nahe bringt. Hierbei soll es vor allem darum gehen, den Nutzer anfangs mit jeglichem Wissen rund um das Lesen und Verstehen von Noten vertraut zu machen.
+Am besten wÃ¤re es, die Software so zu entwerfen, dass diese beim Lernen Sound-Beispiele geben kann, damit sich der Nutzer die verschiedenen TÃ¶ne, Oktaven etc. so schon ein mal anhÃ¶ren kann. In dem Instrument spezifischen Part soll es dann Sound-Beispiele geben, die je nach vorher ausgewÃ¤hltem Instrument, anders klingen.
 
-Das heißt: im Grunde genommen sollte man dem Programm anfangs etwas über Noten und alles was damit zu tun hat entnehmen können und sich dann für ein Instrument, welches man gerade am lernen ist bzw. lernen möchte, entscheiden.
+Das heiÃŸt: im Grunde genommen sollte man dem Programm anfangs etwas Ã¼ber Noten und alles was damit zu tun hat entnehmen kÃ¶nnen und sich dann fÃ¼r ein Instrument, welches man gerade am lernen ist bzw. lernen mÃ¶chte, entscheiden.
 
-Angenommen ein Nutzer entscheidet sich für "Gitarre".
-Das Programm gibt mir dann verschiedene Funktionen vor, speziell für meine Gitarre. Das Lernen soll hier anhand von Beispielen vereinfacht werden.
-Der Nutzer wird mit einem einfachen Beispiel-Song konfrontiert. Als erstes soll das Programm jenem noch ein mal alle Griffe, die man natürlich auch seperat erlernen kann, zeigen, die in dem Beispiel vorkommen. Es stellt einen also praktisch erst ein mal auf den Song ein. Der Nutzer kann dann selber auswählen ob er während des übens den Song anhören möchte oder nicht.
+Angenommen ein Nutzer entscheidet sich fÃ¼r "Gitarre".
+Das Programm gibt mir dann verschiedene Funktionen vor, speziell fÃ¼r meine Gitarre. Das Lernen soll hier anhand von Beispielen vereinfacht werden.
+Der Nutzer wird mit einem einfachen Beispiel-Song konfrontiert. Als erstes soll das Programm jenem noch ein mal alle Griffe, die man natÃ¼rlich auch seperat erlernen kann, zeigen, die in dem Beispiel vorkommen. Es stellt einen also praktisch erst ein mal auf den Song ein. Der Nutzer kann dann selber auswÃ¤hlen ob er wÃ¤hrend des Ã¼bens den Song anhÃ¶ren mÃ¶chte oder nicht.
 
-Ebenfalls soll das Programm einen Kalender enthalten. Diesen soll der Nutzer selbst "beschreiben" können. Hier kann er sich Notizen machen was und wann er geübt hat. Falls er dies nicht tut, wird das Programm nach ca. 15 Minuten üben selbst einen Eintrag erstellen. Hierfür wäre eine Log-In/Account Funktion hilfreich.
+Ebenfalls soll das Programm einen Kalender enthalten. Diesen soll der Nutzer selbst "beschreiben" kÃ¶nnen. Hier kann er sich Notizen machen was und wann er geÃ¼bt hat. Falls er dies nicht tut, wird das Programm nach ca. 15 Minuten Ã¼ben selbst einen Eintrag erstellen. HierfÃ¼r wÃ¤re eine Log-In/Account Funktion hilfreich.
 
 #####
-Ein tolles Extra aber schwer zu verwirklichen: ein super Feature wäre, wenn das Programm Noten, die der Nutzer spielt, erkennen und verarbeiten könnte. Hierbei spielt der Nutzer (am obigen Beispiel angelehnt) auf seiner Gitarre und das Programm soll Fehler erkennen und sogar beim Stimmen helfen. Dazu könnte man ebenfalls eine Log-In Funktion einbauen, die jedem Nutzer seine Entwicklung zeigt. Jedes Mal wenn der Nutzer ein Sample spielt, wird am Ende die Fehlerzahl und -ort gespeichert und ist wieder einsehbar.
-Ein weiteres tolles Extra aber schwer zu verwirklichen: dieses Extra würde dem Nutzer erlauben, einen Song, den er lernen möchte, selber ins Programm hochzuladen. Danach zeigt das Programm die Noten an, die gespielt werden müssen. So wäre man nicht nur an die festgelegten Beispiele gebunden.
+Ein tolles Extra aber schwer zu verwirklichen: ein super Feature wÃ¤re, wenn das Programm Noten, die der Nutzer spielt, erkennen und verarbeiten kÃ¶nnte. Hierbei spielt der Nutzer (am obigen Beispiel angelehnt) auf seiner Gitarre und das Programm soll Fehler erkennen und sogar beim Stimmen helfen. Dazu kÃ¶nnte man ebenfalls eine Log-In Funktion einbauen, die jedem Nutzer seine Entwicklung zeigt. Jedes Mal wenn der Nutzer ein Sample spielt, wird am Ende die Fehlerzahl und -ort gespeichert und ist wieder einsehbar.
+Ein weiteres tolles Extra aber schwer zu verwirklichen: dieses Extra wÃ¼rde dem Nutzer erlauben, einen Song, den er lernen mÃ¶chte, selber ins Programm hochzuladen. Danach zeigt das Programm die Noten an, die gespielt werden mÃ¼ssen. So wÃ¤re man nicht nur an die festgelegten Beispiele gebunden.
 #####
 
 ===================================
@@ -26,20 +26,47 @@ Ein weiteres tolles Extra aber schwer zu verwirklichen: dieses Extra würde dem N
 
 === 1.) Formales
 
-Eine zentrale Anforderung des Projektentwurfs ist, dass Sie in Form von Stichpunkten Ihren Ansatz zur Umsetzung der Projektidee schildern sollen. Stattdessen haben Sie eine ausführliche Beschreibung geliefert, die als Basis zum Entwurf einer Struktur leider nicht geeignet ist.
+Eine zentrale Anforderung des Projektentwurfs ist, dass Sie in Form von Stichpunkten Ihren Ansatz zur Umsetzung der Projektidee schildern sollen. Stattdessen haben Sie eine ausfÃ¼hrliche Beschreibung geliefert, die als Basis zum Entwurf einer Struktur leider nicht geeignet ist.
 
 Wichtig: Das hat nichts mit dem Inhalt zu tun.
 
-Überarbeiten Sie den Entwurf deshalb bitte so, dass er aus knappen Stichpunkten besteht.
+Ãœberarbeiten Sie den Entwurf deshalb bitte so, dass er aus knappen Stichpunkten besteht.
 
-Aber nicht vergessen: Das Ausarbeiten der Struktur können Sie beginnen, sobald Sie auch nur einen Stichpunkt notiert haben.
+Aber nicht vergessen: Das Ausarbeiten der Struktur kÃ¶nnen Sie beginnen, sobald Sie auch nur einen Stichpunkt notiert haben.
 
 === 2.) Inhaltliches
 
 Leider sind Sie auch inhaltlich noch nicht nahe genug an einer Ausarbeitung, sondern eher bei der Dokumentation eines Brainstormings. Bsp.:
 
-"...Die Lernsoftware sollte hauptsächlich einen allgemeinen Part haben, der dem Nutzer wichtige Dinge zum Lernen von Instrumenten generell nahe bringt. ..."
+"...Die Lernsoftware sollte hauptsÃ¤chlich einen allgemeinen Part haben, der dem Nutzer wichtige Dinge zum Lernen von Instrumenten generell nahe bringt. ..."
 
-Im Entwurf müssen klar erkennbare Punkte vorhanden sein, die diesen "allgemeinen Part" konkretisieren. Dabei kommt es nicht auf Vollständigkeit an, sondern darauf, dass Sie bzw. die Mitglieder Ihres Teams im Stande sind, konkrete Strukturen daraus abzuleiten. Wenn Sie dagegen zu konkret werden, dann sind Sie bereits bei der Struktur.
+Im Entwurf mÃ¼ssen klar erkennbare Punkte vorhanden sein, die diesen "allgemeinen Part" konkretisieren. Dabei kommt es nicht auf VollstÃ¤ndigkeit an, sondern darauf, dass Sie bzw. die Mitglieder Ihres Teams im Stande sind, konkrete Strukturen daraus abzuleiten. Wenn Sie dagegen zu konkret werden, dann sind Sie bereits bei der Struktur.
 
 Aufgrund des nicht-Stichpunkt-Charakters Ihres Entwurfs zurzeit leider keine Wertung.
+
+==================================================
+=== Ãœberarbeitete Version, v_0.0.2, 2016-10-18 ===
+==================================================
+
+#A012 - Lernsoftware (Instrument erlernen)
+
+Die Software soll die Nutzer beim Lernen von Instrumente begeiten und ihnen dabei behilflich sein.
+
+Die Software soll aus folgenden Programmteilen bestehen:
+
+-- allgemeiner Programmteil --
+
+* Log-In Maske: der Nutzer soll sich einen Account anlegen, in dem Informationen und Fortschritte gespeichert werden. Beispielsweise der Fortschritt beim folgenden Programmteil "Notenlehrer".
+
+* Notenlehrer: dieser Programmteil soll den Nutzer mit allgemeinen Dingen, in erster Linie Noten und allem was dazu gehÃ¶rt, vertraut machen. Am Ende dieses Programmteils hat der Nutzer die MÃ¶glichkeit sich in seinem Wissen Ã¼ber Noten testen zu lassen.
+
+-- spezifischer Programmteil --
+
+* Instrumentenlehrer: dieser Lehrer geht auf spezifische Instrumente ein. Der Nutzer kann aus ausgewÃ¤hlten Instrumenten wÃ¤hlen und sich beim Lernen helfen lassen. Dem Nutzer werden instrumentspezifische Grundlagen beigebracht. Ebenso wird hier noch ein mal in Form von audio-visuellen Infoseiten (man kann sich die TÃ¶ne des spezifischen Instruments anhÃ¶ren) auf Noten eingegangen. 
+
+* Tests: der Nutzer kann sich in diesem Programmteil in seinem ausgewÃ¤hlten Instrument testen lassen. Hierbei werden Fragen zum Instrument gestellt. Ebenso soll die MÃ¶glichkeit bestehen, dass man Ã¼ber sein eigenes Mikrofon einen eingespeicherten Song nachspielt. Die Software erkennt, wenn der Ton "zu stark" nicht getroffen wurde.
+Die Ergebnisse der Tests werden im Account gespeichert. Fragen, die man nicht so gut beantworten konnte, werden in darauffolgenden Tests hÃ¤ufiger gefragt.
+
+* Songbooth: hier soll die MÃ¶glichkeit bestehen einen eigenen Song bzw. eine individuelle Abfolge von Noten zu erstellen (von nur einem Instrument). Die TÃ¶ne und Noten der einzelnen Instrumente sind im Programm abgespeichert.
+
+* Tagebuch: dieses Tagebuch bzw. Kalender soll als kleine Hilfe dienen, um den Ãœberblick zu behalten. Der Nutzer kann hier eintragen, was er wann und wie lang geÃ¼bt hat. Wenn er dies nicht tut, besteht auch die MÃ¶glichkeit, dass der Computer dies selber tut. Zeitpunkte von abgerufenen Seiten und Ãœbungen, sowie die Zeit (von - bis) die die Software geÃ¶ffnet ist, wird im Programm selbst gespeichert.
