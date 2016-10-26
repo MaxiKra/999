@@ -1,3 +1,30 @@
+==================================================
+=== Überarbeitete Version, v_0.0.2, 2016-10-18 ===
+==================================================
+
+#A012 - Lernsoftware (Instrument erlernen)
+
+Die Software soll die Nutzer beim Lernen von Instrumente begeiten und ihnen dabei behilflich sein.
+
+Die Software soll aus folgenden Programmteilen bestehen:
+
+-- allgemeiner Programmteil --
+
+* Log-In Maske: der Nutzer soll sich einen Account anlegen, in dem Informationen und Fortschritte gespeichert werden. Beispielsweise der Fortschritt beim folgenden Programmteil "Notenlehrer".
+
+* Notenlehrer: dieser Programmteil soll den Nutzer mit allgemeinen Dingen, in erster Linie Noten und allem was dazu gehört, vertraut machen. Am Ende dieses Programmteils hat der Nutzer die Möglichkeit sich in seinem Wissen über Noten testen zu lassen.
+
+-- spezifischer Programmteil --
+
+* Instrumentenlehrer: dieser Lehrer geht auf spezifische Instrumente ein. Der Nutzer kann aus ausgewählten Instrumenten wählen und sich beim Lernen helfen lassen. Dem Nutzer werden instrumentspezifische Grundlagen beigebracht. Ebenso wird hier noch ein mal in Form von audio-visuellen Infoseiten (man kann sich die Töne des spezifischen Instruments anhören) auf Noten eingegangen. 
+
+* Tests: der Nutzer kann sich in diesem Programmteil in seinem ausgewählten Instrument testen lassen. Hierbei werden Fragen zum Instrument gestellt. Ebenso soll die Möglichkeit bestehen, dass man über sein eigenes Mikrofon einen eingespeicherten Song nachspielt. Die Software erkennt, wenn der Ton "zu stark" nicht getroffen wurde.
+Die Ergebnisse der Tests werden im Account gespeichert. Fragen, die man nicht so gut beantworten konnte, werden in darauffolgenden Tests häufiger gefragt.
+
+* Songbooth: hier soll die Möglichkeit bestehen einen eigenen Song bzw. eine individuelle Abfolge von Noten zu erstellen (von nur einem Instrument). Die Töne und Noten der einzelnen Instrumente sind im Programm abgespeichert.
+
+* Tagebuch: dieses Tagebuch bzw. Kalender soll als kleine Hilfe dienen, um den Überblick zu behalten. Der Nutzer kann hier eintragen, was er wann und wie lang geübt hat. Wenn er dies nicht tut, besteht auch die Möglichkeit, dass der Computer dies selber tut. Zeitpunkte von abgerufenen Seiten und Übungen, sowie die Zeit (von - bis) die die Software geöffnet ist, wird im Programm selbst gespeichert.
+
 ===========================================
 === Erster Entwurf, v_0.0.1, 2016-10-04 ===
 ===========================================
@@ -44,29 +71,33 @@ Im Entwurf müssen klar erkennbare Punkte vorhanden sein, die diesen "allgemeine
 
 Aufgrund des nicht-Stichpunkt-Charakters Ihres Entwurfs zurzeit leider keine Wertung.
 
-==================================================
-=== Überarbeitete Version, v_0.0.2, 2016-10-18 ===
-==================================================
 
-#A012 - Lernsoftware (Instrument erlernen)
+===================================
+=== Feedback Alpers, 2016-10-26 ===
+===================================
 
-Die Software soll die Nutzer beim Lernen von Instrumente begeiten und ihnen dabei behilflich sein.
+=== 1.) Formales
 
-Die Software soll aus folgenden Programmteilen bestehen:
+== 1.1.) 
+In den Aufgabenstellungen ist klar beschrieben, wo sie neue Teile des Entwurfs einfügen sollen. Bitte beachten Sie diese Vorgabe, da die Arbeit mit diesem Dokument sonst unnötig umständlich wird.
 
--- allgemeiner Programmteil --
+=== 2.) Inhaltliches
 
-* Log-In Maske: der Nutzer soll sich einen Account anlegen, in dem Informationen und Fortschritte gespeichert werden. Beispielsweise der Fortschritt beim folgenden Programmteil "Notenlehrer".
+== 2.1.) -- allgemeiner Programmteil --
+Eine solche Unterteilung greift der Struktur vor.
 
+== 2.2.) * Log-In Maske: der Nutzer soll sich einen Account anlegen, in dem Informationen und Fortschritte gespeichert werden. Beispielsweise der Fortschritt beim folgenden Programmteil "Notenlehrer".
+
+Das ist zu umfangreich. Passend wäre:
+// Inhaltliches
+- Es gibt einen Log-In.
+- Es gibt eine Registrierung.
+
+// Funktionales:
+- Informationen und Fortschritte werden gespeichert.
+(Wobei sich direkt die Frage ergibt: Welche?)
+
+== 2.3.)
 * Notenlehrer: dieser Programmteil soll den Nutzer mit allgemeinen Dingen, in erster Linie Noten und allem was dazu gehört, vertraut machen. Am Ende dieses Programmteils hat der Nutzer die Möglichkeit sich in seinem Wissen über Noten testen zu lassen.
 
--- spezifischer Programmteil --
-
-* Instrumentenlehrer: dieser Lehrer geht auf spezifische Instrumente ein. Der Nutzer kann aus ausgewählten Instrumenten wählen und sich beim Lernen helfen lassen. Dem Nutzer werden instrumentspezifische Grundlagen beigebracht. Ebenso wird hier noch ein mal in Form von audio-visuellen Infoseiten (man kann sich die Töne des spezifischen Instruments anhören) auf Noten eingegangen. 
-
-* Tests: der Nutzer kann sich in diesem Programmteil in seinem ausgewählten Instrument testen lassen. Hierbei werden Fragen zum Instrument gestellt. Ebenso soll die Möglichkeit bestehen, dass man über sein eigenes Mikrofon einen eingespeicherten Song nachspielt. Die Software erkennt, wenn der Ton "zu stark" nicht getroffen wurde.
-Die Ergebnisse der Tests werden im Account gespeichert. Fragen, die man nicht so gut beantworten konnte, werden in darauffolgenden Tests häufiger gefragt.
-
-* Songbooth: hier soll die Möglichkeit bestehen einen eigenen Song bzw. eine individuelle Abfolge von Noten zu erstellen (von nur einem Instrument). Die Töne und Noten der einzelnen Instrumente sind im Programm abgespeichert.
-
-* Tagebuch: dieses Tagebuch bzw. Kalender soll als kleine Hilfe dienen, um den Überblick zu behalten. Der Nutzer kann hier eintragen, was er wann und wie lang geübt hat. Wenn er dies nicht tut, besteht auch die Möglichkeit, dass der Computer dies selber tut. Zeitpunkte von abgerufenen Seiten und Übungen, sowie die Zeit (von - bis) die die Software geöffnet ist, wird im Programm selbst gespeichert.
+Hier wie bei allen anderen Einträgen Ihres Entwurfs: Sie formulieren zu ausschweifend. Lesen Sie sich nochmal in Ruhe die Aufgabenstellungen und Beispiele (z.B. aus meinen Rundmails) durch. Formulieren Sie dann den Entwurf so um, wie es in der Aufgabenstellung formuliert ist.

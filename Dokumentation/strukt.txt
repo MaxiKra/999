@@ -40,3 +40,9 @@
 
 == 09 Footer ==
 09_01 Textfeld / Copyright etc.
+
+===================================
+=== Feedback Alpers, 2016-10-26 ===
+===================================
+
+Da der Projektentwurf zurzeit noch zu ausschweifend formuliert ist, ist ein Feedback hier noch nicht möglich.
