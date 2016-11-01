@@ -1,10 +1,31 @@
+=====================================================
+=== Ergänzung Projektentwurf, v_0.0.3, 2016-11-01 ===
+=====================================================
+
+#A012 - Lernsoftware (Instrument erlernen)
+
+## LogIn-Maske, Registrierung
+- Informationen und Fortschritte (z.B. Ergebnis eines Tests) werden gespeichert.
+
+## Infoseiten
+- Textfelder und Audios mit Informationen.
+
+## Übungen, Tests
+- Programm stellt Fragen.
+
+## Songbooth
+- Nutzer kann eigene Abfolge von Noten erstellen.
+
+## Kalender
+- Automatische und manuelle Einträge bezüglich Übungen und Tests.
+
 ==================================================
 === Überarbeitete Version, v_0.0.2, 2016-10-18 ===
 ==================================================
 
 #A012 - Lernsoftware (Instrument erlernen)
 
-Die Software soll die Nutzer beim Lernen von Instrumente begeiten und ihnen dabei behilflich sein.
+Die Software soll die Nutzer beim Lernen von Instrumente begleiten und ihnen dabei behilflich sein.
 
 Die Software soll aus folgenden Programmteilen bestehen:
 
