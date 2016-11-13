@@ -1,4 +1,37 @@
 =========================================
+=== Strukturelle Elemente, 2016-11-13 ===
+=========================================
+
+== 01 (Header-)Navigation ==
+01_01 Schaltflächen
+
+== 02 Hyperlinks ==
+02_01 Navigation / Links zu diversen Programmteilen innerhalb des Programms
+
+== 02_01 Navigation ==
+02_01_01 Reiter / z.B. "Info", "Hilfe", "Logout" ...
+02_01_02 Unterpunkte / z.B. "Kalender", "Test" ...
+
+== 03 Schaltflächen ==
+03_01 Mic-Toggle / Mikrofon an- und ausschalten
+03_02 Weiter-Button / Zum weiter blättern in Textpassagen
+03_03 Zurück-Button / Zum zurück blättern in Textpassagen
+
+== 04 Noten (Schaltfläche) ==
+04_01 Noten sollen anklickbar sein und den entsprechenden Ton abspielen
+
+== 05 Songbooth ==
+05_01 Die Notenlinen sollen Felder haben, die der Nutzer jeweils mit einer Note oder einer Pause füllen kann. Dafür muss er eine Note aus einer angezeigten Auswahl anklicken, die dann auf den Notenlinien erscheint. 
+
+== 06 Test ==
+06_01 Multiple Choice
+06_02 type=text / Eingabe einer Antwort
+06_03 Textfelder / Für Fragen und Hinweise
+
+== 07 Footer ==
+07_01 Textfeld / Copyright etc.
+
+=========================================
 === Strukturelle Elemente, 2016-10-18 ===
 =========================================
 
